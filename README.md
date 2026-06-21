@@ -1,1 +1,1 @@
-# Machine_Learning.Theory
+# MachineLearning
